@@ -1,0 +1,9 @@
+{
+  "target": "skin",
+  "model": 246,
+  "kind": "livery",
+  "github": "https://github.com/InfinityPR/SAFG-World/pull/123",
+  "textures": ["vhfyst3"],
+  "image": "vhfyst3_fair_v7.png",
+  "uniform": "gTexture"
+}
